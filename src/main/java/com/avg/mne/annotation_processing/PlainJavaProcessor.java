@@ -11,6 +11,8 @@ import javax.lang.model.element.TypeElement;
 
 /**
  * Every annotation processor runs its own JVM!!! So e.g. Guava can be used. :)
+ * 
+ * http://hannesdorfmann.com/annotation-processing/annotationprocessing101/
  * https://github.com/sockeqwe/annotationprocessing101
  * 
  * @author Michal Nedbálek <michal.nedbalek@avg.com> on 28/01/2016
